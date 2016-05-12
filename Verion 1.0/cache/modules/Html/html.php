@@ -1,0 +1,1 @@
+<?php echo $this->map['html_code'];?>

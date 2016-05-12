@@ -1,0 +1,1 @@
+<?php $min_allotment = 15; $min_tour_commission = 14; ?>

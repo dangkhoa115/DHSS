@@ -1,0 +1,1 @@
+<?php $item_ul_categories = '<li><a href="san-pham/dien-thoai-c2.html" >Điện thoại</a></li><li><a href="san-pham/may-tinh-bang-c3.html" >Máy tính bảng</a></li><li><a href="san-pham/may-tinh-c4.html" >Máy tính</a></li><li><a href="san-pham/phu-kien-c6.html" >Phụ kiện</a></li>';?>
